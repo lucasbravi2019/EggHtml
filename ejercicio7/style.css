@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightcyan;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    color: mediumseagreen;
+}
